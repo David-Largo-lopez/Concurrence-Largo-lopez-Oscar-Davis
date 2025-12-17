@@ -54,5 +54,5 @@ int main(void) {
     printf("Résultat total : %ld\n", somme_total);
     printf("Durée : %ld ms\n", duree);
 
-    return 0;
+return 0;
 }
